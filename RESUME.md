@@ -9,7 +9,7 @@
 Zekai is a backend.x.front-end developer.
 
 He writes high performance RESTful APIs, micro-services load balancers, micro-services API
-gateway(similar to [kong](https://github.com/Mashape/kong)) and deploy them to AWS at work
+gateway(similar to [kong]) and deploy them to AWS at work
 to make a living.
 
 In his spare time, he work on multiple side-projects involves most of the modern front-end
@@ -103,3 +103,4 @@ He specialties include JavaScript(Front-End+Backend), Openresty(nginx), AWS Depl
 [strummer]: https://github.com/TabDigital/strummer
 [atom-node-debugger]: https://atom.io/packages/node-debugger
 [react-native-gestures]: https://github.com/kiddkai/react-native-gestures
+[kong]: https://github.com/Mashape/kong
